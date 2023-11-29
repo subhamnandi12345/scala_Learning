@@ -1,0 +1,7 @@
+package Objects_Chapter
+
+class task2 {
+  def main(args: Array[String]): Unit = {
+    println("hello scala")
+  }
+}
